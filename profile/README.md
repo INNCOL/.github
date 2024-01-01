@@ -26,3 +26,5 @@ Connect with us on social media, explore our repositories, and discover the Innc
 
 🌐 [Visit our website](https://www.inncol.com.mx)
 📧 [Contact us](mailto:contacto@inncol.com.mx)
+🌐 [Visit our Linktree]([https://www.inncol.com.mx](https://linktr.ee/inncol)https://linktr.ee/inncol)
+
