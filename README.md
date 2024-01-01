@@ -25,4 +25,4 @@ Are you a reseller looking for a trustworthy partner to offer top-notch software
 Connect with us on social media, explore our repositories, and discover the Inncol advantage. Let's build the future together!
 
 🌐 [Visit our website](https://www.inncol.com.mx)
-📧 [Contact us](contacto@inncol.com.mx)
+📧 [Contact us](mailto:contacto@inncol.com.mx)
